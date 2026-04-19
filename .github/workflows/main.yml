@@ -1,4 +1,4 @@
-name: Scrape Telegram
+name: Scrape Telegram Channels
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # اجازه push به مخزن
+  contents: write
 
 jobs:
   scrape:
@@ -15,8 +15,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          persist-credentials: true
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: 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
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -35,10 +34,10 @@ jobs:
           git config user.email "actions@github.com"
           git add data.json subscription.txt
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "No changes"
           else
             git commit -m "auto update $(date -u '+%Y-%m-%d %H:%M:%S')"
             git push
           fi
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: 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
