@@ -10,18 +10,20 @@ from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
 
-# ========== تنظیمات ==========
 DATA_FILE = "data.json"
+
+# الگوهای دقیق بر اساس نمونه واقعی کانفیگ
 PATTERNS = {
+    "vless": r"vless://[a-f0-9-]+@[^\s?]+\?[^\s]+",
     "vmess": r"vmess://[A-Za-z0-9+/=]+",
-    "vless": r"vless://[A-Za-z0-9+/=]+@[^\s]+",
-    "trojan": r"trojan://[A-Za-z0-9@.]+",
-    "ss": r"ss://[A-Za-z0-9@.]+",
-    "hysteria2": r"hysteria2://[A-Za-z0-9@.]+",
-    "tuic": r"tuic://[A-Za-z0-9@.]+"
+    "trojan": r"trojan://[^\s]+@[^\s:]+:\d+\?[^\s]*",
+    "ss": r"ss://[A-Za-z0-9+/=]+(@[^\s:]+:\d+)?#?[^\s]*",
+    "hysteria2": r"hysteria2://[^\s]+",
+    "tuic": r"tuic://[^\s]+"
 }
 
-# ========== توابع داده ==========
+MIN_CONFIG_LEN = 30
+
 def load_data():
     if os.path.exists(DATA_FILE):
         with open(DATA_FILE, "r", encoding="utf-8") as f:
@@ -37,7 +39,6 @@ def save_data(data):
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
-# ========== توابع اسکرپ ==========
 def get_post_texts(channel_username, limit=10):
     url = f"https://t.me/s/{channel_username}"
     try:
@@ -53,12 +54,16 @@ def get_post_texts(channel_username, limit=10):
 def extract_configs_from_text(text):
     configs = []
     for proto, pattern in PATTERNS.items():
-        for m in re.findall(pattern, text):
-            configs.append({
-                "raw": m,
-                "type": proto,
-                "hash": hashlib.md5(m.encode()).hexdigest()
-            })
+        matches = re.findall(pattern, text)
+        for m in matches:
+            m = m.strip()
+            if len(m) >= MIN_CONFIG_LEN and m.startswith(proto + "://"):
+                m = re.sub(r'[“”\'"]', '', m)  # حذف نقل قول‌های اضافی
+                configs.append({
+                    "raw": m,
+                    "type": proto,
+                    "hash": hashlib.md5(m.encode()).hexdigest()
+                })
     return configs
 
 def update_database(channel, new_configs, data):
@@ -131,17 +136,22 @@ def auto_add_channels(data):
         save_data(data)
 
 def scrape_all_channels():
-    print("🔄 شروع اسکرپ...")
+    print("🔄 شروع اسکرپ با الگوهای دقیق...")
     data = load_data()
     for ch in data["channels"]["list"]:
         print(f"🔍 اسکرپ {ch}")
         texts = get_post_texts(ch, limit=10)
         all_new = []
         for text in texts:
-            all_new.extend(extract_configs_from_text(text))
+            extracted = extract_configs_from_text(text)
+            if extracted:
+                print(f"   در {ch} تعداد کانفیگ یافت شد: {len(extracted)}")
+                for cfg in extracted:
+                    print(f"      نمونه: {cfg['raw'][:80]}...")
+            all_new.extend(extracted)
         added = update_database(ch, all_new, data)
-        print(f"   ➕ {added} کانفیگ جدید")
-        # استخراج لینک کانال‌های دیگر برای auto-add
+        print(f"   ➕ {added} کانفیگ جدید اضافه شد")
+        
         for text in texts:
             found = re.findall(r"t\.me/([a-zA-Z][a-zA-Z0-9_]{4,})", text)
             for new_ch in found:
