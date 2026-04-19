@@ -5,19 +5,40 @@ on:
     - cron: '*/30 * * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write   # اجازه push به مخزن
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      - run: pip install requests beautifulsoup4
-      - run: python bot_and_scraper.py
-      - run: |
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run scraper
+        run: python bot_and_scraper.py
+
+      - name: Commit and push changes
+        run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add data.json subscription.txt
-          git diff --staged --quiet || git commit -m "auto update $(date -u)"
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "auto update $(date -u '+%Y-%m-%d %H:%M:%S')"
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
