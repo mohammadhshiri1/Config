@@ -1,0 +1,20 @@
+{
+  "channels": {
+    "list": [
+      "v2ray_collector",
+      "vpn_servers"
+    ],
+    "auto_add_pending": {}
+  },
+  "database": {
+    "configs": [],
+    "last_seen": {}
+  },
+  "status": {
+    "active": true
+  },
+  "stats": {
+    "total_configs": 0,
+    "last_update": null
+  }
+}
