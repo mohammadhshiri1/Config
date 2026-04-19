@@ -11,11 +11,40 @@
     ],
     "auto_add_pending": {
       "GoNet_ir": 1776600947.4487445,
-      "socks": 1776600947.864034
+      "socks": 1776600947.864034,
+      "proxy": 1776626666.2421737
     }
   },
   "database": {
     "configs": [
+      {
+        "raw": "vless://c5dd6e5f-55d8-47ce-80e6-641d54f28b45@5g-ez.adelshoop.net:2052?path=%2F&security=none&encryption=none&type=ws#%40saministamm@saministamm🦇",
+        "type": "vless",
+        "hash": "1c9d5d05a7e5c5123ee0b520860f9846",
+        "channel": "saministamm",
+        "timestamp": 1776626666.242155
+      },
+      {
+        "raw": "vless://72005558-6498-4925-a005-98583360d500@snapp.ir:2052?path=%2Frsvpn&security=&encryption=none&host=rsvpn2.xchitozx.org&type=ws#saministamm",
+        "type": "vless",
+        "hash": "ddcc443020f81bf91c46723cab1729c0",
+        "channel": "saministamm",
+        "timestamp": 1776626666.2421536
+      },
+      {
+        "raw": "vless://c260ae7b-1166-46b0-8ae6-96753689a5e2@185.143.234.235:8080?encryption=none&type=ws&path=%2F&host=vip.az99x.info&allowInsecure=1#saministammترکیب",
+        "type": "vless",
+        "hash": "51ecf02d173e2a4e04a2a48f5e25b8d5",
+        "channel": "saministamm",
+        "timestamp": 1776626666.2421522
+      },
+      {
+        "raw": "vless://4c3a2f39-dc52-4322-ac66-83010d12bfc0@85.239.33.76:4354?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=apple.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#@saministamm",
+        "type": "vless",
+        "hash": "d35cc49a52afb3765dd8c8df5b3c0f9a",
+        "channel": "saministamm",
+        "timestamp": 1776626666.242148
+      },
       {
         "raw": "ss://263e0168",
         "type": "ss",
@@ -60,9 +89,9 @@
       }
     ],
     "last_seen": {
-      "Configir98": 1776600945.7949545,
-      "configbaziran": 1776600946.172028,
-      "saministamm": 1776600946.5604212,
+      "Configir98": 1776626665.4310718,
+      "configbaziran": 1776626665.8432932,
+      "saministamm": 1776626666.2421553,
       "Diamondplaybot": 1776600946.9850798,
       "Gonet_ir": 1776600947.4485314,
       "yaravpnit": 1776600947.8640115
@@ -72,7 +101,7 @@
     "active": true
   },
   "stats": {
-    "total_configs": 6,
-    "last_update": 1776621860.9263866
+    "total_configs": 10,
+    "last_update": 1776626669.2414143
   }
 }
