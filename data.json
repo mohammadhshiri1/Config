@@ -9,17 +9,70 @@
       "yaravpnit",
       "MiTiVPN"
     ],
-    "auto_add_pending": {}
+    "auto_add_pending": {
+      "GoNet_ir": 1776600947.4487445,
+      "socks": 1776600947.864034
+    }
   },
   "database": {
-    "configs": [],
-    "last_seen": {}
+    "configs": [
+      {
+        "raw": "ss://263e0168",
+        "type": "ss",
+        "hash": "d0872f8db16c3957ae9fca3368d1d1a7",
+        "channel": "yaravpnit",
+        "timestamp": 1776600947.8640087
+      },
+      {
+        "raw": "ss://c260ae7b",
+        "type": "ss",
+        "hash": "e857bfd90fbe54b7254cd8f0cb503ae3",
+        "channel": "saministamm",
+        "timestamp": 1776600946.5604205
+      },
+      {
+        "raw": "ss://4c3a2f39",
+        "type": "ss",
+        "hash": "42b40bb0e06233068494340a376fe85f",
+        "channel": "saministamm",
+        "timestamp": 1776600946.560418
+      },
+      {
+        "raw": "ss://5377335c",
+        "type": "ss",
+        "hash": "c7c0e04601532bed4148fbef0676cda6",
+        "channel": "saministamm",
+        "timestamp": 1776600946.560417
+      },
+      {
+        "raw": "ss://41c1375f",
+        "type": "ss",
+        "hash": "b8d7c46d684b292ff6558588589ea1a4",
+        "channel": "saministamm",
+        "timestamp": 1776600946.560416
+      },
+      {
+        "raw": "ss://72005558",
+        "type": "ss",
+        "hash": "731d2636b008f1ff7ef4c15671c991d6",
+        "channel": "saministamm",
+        "timestamp": 1776600946.5604136
+      }
+    ],
+    "last_seen": {
+      "Configir98": 1776600945.7949545,
+      "configbaziran": 1776600946.172028,
+      "saministamm": 1776600946.5604212,
+      "Diamondplaybot": 1776600946.9850798,
+      "Gonet_ir": 1776600947.4485314,
+      "yaravpnit": 1776600947.8640115
+    }
   },
   "status": {
     "active": true
   },
   "stats": {
-    "total_configs": 0,
-    "last_update": null
+    "total_configs": 6,
+    "last_update": 1776600948.3116806
   }
 }
