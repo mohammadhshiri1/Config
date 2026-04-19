@@ -1,6 +1,14 @@
 {
   "channels": {
-    "list": [],
+    "list": [
+      "Configir98",
+      "configbaziran",
+      "saministamm",
+      "Diamondplaybot",
+      "Gonet_ir",
+      "yaravpnit",
+      "MiTiVPN"
+    ],
     "auto_add_pending": {}
   },
   "database": {
@@ -12,6 +20,6 @@
   },
   "stats": {
     "total_configs": 0,
-    "last_update": 1776600583.7184584
+    "last_update": null
   }
 }
