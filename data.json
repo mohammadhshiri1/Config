@@ -14,7 +14,8 @@
       "socks": 1776600947.864034,
       "proxy": 1776626666.2421737,
       "Configir98vless": 1776643391.1448312,
-      "saministammvless": 1776710118.5149019
+      "saministammvless": 1776710118.5149019,
+      "Admin": 1776715287.3638625
     }
   },
   "database": {
@@ -119,7 +120,7 @@
       }
     ],
     "last_seen": {
-      "Configir98": 1776710117.6468575,
+      "Configir98": 1776715287.363545,
       "configbaziran": 1776710118.1189075,
       "saministamm": 1776710118.514888,
       "Diamondplaybot": 1776600946.9850798,
@@ -132,6 +133,6 @@
   },
   "stats": {
     "total_configs": 14,
-    "last_update": 1776710122.7338216
+    "last_update": 1776715294.7675111
   }
 }
