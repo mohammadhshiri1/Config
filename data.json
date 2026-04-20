@@ -13,11 +13,26 @@
       "GoNet_ir": 1776600947.4487445,
       "socks": 1776600947.864034,
       "proxy": 1776626666.2421737,
-      "Configir98vless": 1776643391.1448312
+      "Configir98vless": 1776643391.1448312,
+      "saministammvless": 1776710118.5149019
     }
   },
   "database": {
     "configs": [
+      {
+        "raw": "vless://af812bdd-7190-4c62-84a8-10a9cc96a50d@185.143.234.120:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D443&host=alef.ir.oadeflantrogm.realirshop.com&sni=alef.ir.oadeflantrogm.realirshop.com&fp=randomized&allowInsecure=1#https://t.me/saministammvless://c664b00e-7410-4963-a911-b029928d2401@ram.greenbookvip.online:22992?encryption=none&type=grpc&security=reality&sni=www.aparat.com&fp=chrome&pbk=_K7LTG-QOMMaAYYW6XtVX3BHPNblhdhfCUfYVm3DDjM&sid=473019&spx=%2F#https://t.me/saministammترکیبی",
+        "type": "vless",
+        "hash": "20367c48a2bc65409624cf65af181445",
+        "channel": "saministamm",
+        "timestamp": 1776710118.514887
+      },
+      {
+        "raw": "vless://59536b5c-a132-44b7-bc68-f22f01922964@185.143.234.235:80?path=%2F&security=none&encryption=none&host=vixon.portab.org&type=ws#https://t.me/Configir98ترکیب",
+        "type": "vless",
+        "hash": "e31592d5e990423a02aae938252d379c",
+        "channel": "Configir98",
+        "timestamp": 1776710117.6468568
+      },
       {
         "raw": "vless://0c4c5758-0e85-4eb6-940f-60b48c6c76f5@87.248.154.247:443?security=none&encryption=none&host=filimo.com&headerType=http&type=tcp#https://t.me/Configir98ترکیب",
         "type": "vless",
@@ -104,9 +119,9 @@
       }
     ],
     "last_seen": {
-      "Configir98": 1776643391.1446612,
-      "configbaziran": 1776626665.8432932,
-      "saministamm": 1776626666.2421553,
+      "Configir98": 1776710117.6468575,
+      "configbaziran": 1776710118.1189075,
+      "saministamm": 1776710118.514888,
       "Diamondplaybot": 1776600946.9850798,
       "Gonet_ir": 1776600947.4485314,
       "yaravpnit": 1776600947.8640115
@@ -116,7 +131,7 @@
     "active": true
   },
   "stats": {
-    "total_configs": 12,
-    "last_update": 1776705054.8049252
+    "total_configs": 14,
+    "last_update": 1776710122.7338216
   }
 }
