@@ -12,11 +12,26 @@
     "auto_add_pending": {
       "GoNet_ir": 1776600947.4487445,
       "socks": 1776600947.864034,
-      "proxy": 1776626666.2421737
+      "proxy": 1776626666.2421737,
+      "Configir98vless": 1776643391.1448312
     }
   },
   "database": {
     "configs": [
+      {
+        "raw": "vless://0c4c5758-0e85-4eb6-940f-60b48c6c76f5@87.248.154.247:443?security=none&encryption=none&host=filimo.com&headerType=http&type=tcp#https://t.me/Configir98ترکیب",
+        "type": "vless",
+        "hash": "7dbd2d0d28f98290a1b82c1de65acc70",
+        "channel": "Configir98",
+        "timestamp": 1776643391.144661
+      },
+      {
+        "raw": "vless://72005558-6498-4925-a005-98583360d500@snapp.ir:2052?path=%2Frsvpn&security=&encryption=none&host=rsvpn2.xchitozx.org&type=ws#https://t.me/Configir98vless://72005558-6498-4925-a005-98583360d500@snapp.ir:2052?path=%2Frsvpn&security=none&encryption=none&host=rsvpn2.xchitozx.org&type=ws#https://t.me/Configir98ترکیب",
+        "type": "vless",
+        "hash": "7b131005c60988963da3e51cddc7cfa7",
+        "channel": "Configir98",
+        "timestamp": 1776643391.1446583
+      },
       {
         "raw": "vless://c5dd6e5f-55d8-47ce-80e6-641d54f28b45@5g-ez.adelshoop.net:2052?path=%2F&security=none&encryption=none&type=ws#%40saministamm@saministamm🦇",
         "type": "vless",
@@ -89,7 +104,7 @@
       }
     ],
     "last_seen": {
-      "Configir98": 1776626665.4310718,
+      "Configir98": 1776643391.1446612,
       "configbaziran": 1776626665.8432932,
       "saministamm": 1776626666.2421553,
       "Diamondplaybot": 1776600946.9850798,
@@ -101,7 +116,7 @@
     "active": true
   },
   "stats": {
-    "total_configs": 10,
-    "last_update": 1776639933.9346101
+    "total_configs": 12,
+    "last_update": 1776643395.847421
   }
 }
