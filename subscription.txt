@@ -1,36 +1,36 @@
-# Apr:22-[7:58AM]-(number:1)
+# Apr:22-[9:45AM]-(number:1)
 vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#https://t.me/saministamm.@saministamm.
-# Apr:22-[7:58AM]-(number:2)
+# Apr:22-[9:45AM]-(number:2)
 trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/Assignment#@saministamm@saministamm.
-# Apr:22-[7:58AM]-(number:3)
+# Apr:22-[9:45AM]-(number:3)
 vless://04c66e44-f54f-4c39-8b7c-a99daa70273d@www.arvancloud.ir:8880?path=%2FMehd&security=none&encryption=none&host=vs4bazi-newoverserv.itbazi.ir&type=ws#@saministammvless://ea227ffd-be0c-4acd-a70c-9b6b4777d862@185.143.234.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#@saministammvless://ea227ffd-be0c-4acd-a70c-9b6b4777d862@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#@saministammvless://dbf5d452-2c4b-42be-86fd-414fda23923d@snapp.ir:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#@saministammvless://461cd5bc-5011-4d64-bd54-5151f8a09b4b@snapp.ir:2082?path=%2F&security=none&encryption=none&host=dl800tobi.sudoserver.ir&type=ws#@saministammtrojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/Assignment#@saministamm@saministamm.
-# Apr:22-[7:58AM]-(number:4)
+# Apr:22-[9:45AM]-(number:4)
 vless://ea227ffd-be0c-4acd-a70c-9b6b4777d862@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%40saministamm@saministamm.
-# Apr:22-[7:58AM]-(number:5)
+# Apr:22-[9:45AM]-(number:5)
 vless://af812bdd-7190-4c62-84a8-10a9cc96a50d@185.143.234.120:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D443&host=alef.ir.oadeflantrogm.realirshop.com&sni=alef.ir.oadeflantrogm.realirshop.com&fp=randomized&allowInsecure=1#https://t.me/saministammvless://c664b00e-7410-4963-a911-b029928d2401@ram.greenbookvip.online:22992?encryption=none&type=grpc&security=reality&sni=www.aparat.com&fp=chrome&pbk=_K7LTG-QOMMaAYYW6XtVX3BHPNblhdhfCUfYVm3DDjM&sid=473019&spx=%2F#https://t.me/saministammترکیبی
-# Apr:22-[7:58AM]-(number:6)
+# Apr:22-[9:45AM]-(number:6)
 vless://59536b5c-a132-44b7-bc68-f22f01922964@185.143.234.235:80?path=%2F&security=none&encryption=none&host=vixon.portab.org&type=ws#https://t.me/Configir98ترکیب
-# Apr:22-[7:58AM]-(number:7)
+# Apr:22-[9:45AM]-(number:7)
 vless://0c4c5758-0e85-4eb6-940f-60b48c6c76f5@87.248.154.247:443?security=none&encryption=none&host=filimo.com&headerType=http&type=tcp#https://t.me/Configir98ترکیب
-# Apr:22-[7:58AM]-(number:8)
+# Apr:22-[9:45AM]-(number:8)
 vless://72005558-6498-4925-a005-98583360d500@snapp.ir:2052?path=%2Frsvpn&security=&encryption=none&host=rsvpn2.xchitozx.org&type=ws#https://t.me/Configir98vless://72005558-6498-4925-a005-98583360d500@snapp.ir:2052?path=%2Frsvpn&security=none&encryption=none&host=rsvpn2.xchitozx.org&type=ws#https://t.me/Configir98ترکیب
-# Apr:22-[7:58AM]-(number:9)
+# Apr:22-[9:45AM]-(number:9)
 vless://c5dd6e5f-55d8-47ce-80e6-641d54f28b45@5g-ez.adelshoop.net:2052?path=%2F&security=none&encryption=none&type=ws#%40saministamm@saministamm🦇
-# Apr:22-[7:58AM]-(number:10)
+# Apr:22-[9:45AM]-(number:10)
 vless://72005558-6498-4925-a005-98583360d500@snapp.ir:2052?path=%2Frsvpn&security=&encryption=none&host=rsvpn2.xchitozx.org&type=ws#saministamm
-# Apr:22-[7:58AM]-(number:11)
+# Apr:22-[9:45AM]-(number:11)
 vless://c260ae7b-1166-46b0-8ae6-96753689a5e2@185.143.234.235:8080?encryption=none&type=ws&path=%2F&host=vip.az99x.info&allowInsecure=1#saministammترکیب
-# Apr:22-[7:58AM]-(number:12)
+# Apr:22-[9:45AM]-(number:12)
 vless://4c3a2f39-dc52-4322-ac66-83010d12bfc0@85.239.33.76:4354?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=apple.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#@saministamm
-# Apr:22-[7:58AM]-(number:13)
+# Apr:22-[9:45AM]-(number:13)
 ss://263e0168
-# Apr:22-[7:58AM]-(number:14)
+# Apr:22-[9:45AM]-(number:14)
 ss://c260ae7b
-# Apr:22-[7:58AM]-(number:15)
+# Apr:22-[9:45AM]-(number:15)
 ss://4c3a2f39
-# Apr:22-[7:58AM]-(number:16)
+# Apr:22-[9:45AM]-(number:16)
 ss://5377335c
-# Apr:22-[7:58AM]-(number:17)
+# Apr:22-[9:45AM]-(number:17)
 ss://41c1375f
-# Apr:22-[7:58AM]-(number:18)
+# Apr:22-[9:45AM]-(number:18)
 ss://72005558
