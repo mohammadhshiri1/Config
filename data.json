@@ -16,11 +16,40 @@
       "Configir98vless": 1776643391.1448312,
       "saministammvless": 1776710118.5149019,
       "Admin": 1776715287.3638625,
-      "Configir98https": 1776743575.550081
+      "Configir98https": 1776743575.550081,
+      "yaravpngap": 1776836304.600251
     }
   },
   "database": {
     "configs": [
+      {
+        "raw": "vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#https://t.me/saministamm.@saministamm.",
+        "type": "vless",
+        "hash": "23df34c05498eb9dbc1c96c93bc9c95e",
+        "channel": "saministamm",
+        "timestamp": 1776836302.671721
+      },
+      {
+        "raw": "trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/Assignment#@saministamm@saministamm.",
+        "type": "trojan",
+        "hash": "61e0a47335ffc8dd2714ee68decb5e1b",
+        "channel": "saministamm",
+        "timestamp": 1776836302.6717188
+      },
+      {
+        "raw": "vless://04c66e44-f54f-4c39-8b7c-a99daa70273d@www.arvancloud.ir:8880?path=%2FMehd&security=none&encryption=none&host=vs4bazi-newoverserv.itbazi.ir&type=ws#@saministammvless://ea227ffd-be0c-4acd-a70c-9b6b4777d862@185.143.234.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#@saministammvless://ea227ffd-be0c-4acd-a70c-9b6b4777d862@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#@saministammvless://dbf5d452-2c4b-42be-86fd-414fda23923d@snapp.ir:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#@saministammvless://461cd5bc-5011-4d64-bd54-5151f8a09b4b@snapp.ir:2082?path=%2F&security=none&encryption=none&host=dl800tobi.sudoserver.ir&type=ws#@saministammtrojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/Assignment#@saministamm@saministamm.",
+        "type": "vless",
+        "hash": "d8c6e0d43db11db2ab98d13c92164141",
+        "channel": "saministamm",
+        "timestamp": 1776836302.6717172
+      },
+      {
+        "raw": "vless://ea227ffd-be0c-4acd-a70c-9b6b4777d862@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%40saministamm@saministamm.",
+        "type": "vless",
+        "hash": "381d3322732dc675ea5c174c4b798849",
+        "channel": "saministamm",
+        "timestamp": 1776836302.6717145
+      },
       {
         "raw": "vless://af812bdd-7190-4c62-84a8-10a9cc96a50d@185.143.234.120:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D443&host=alef.ir.oadeflantrogm.realirshop.com&sni=alef.ir.oadeflantrogm.realirshop.com&fp=randomized&allowInsecure=1#https://t.me/saministammvless://c664b00e-7410-4963-a911-b029928d2401@ram.greenbookvip.online:22992?encryption=none&type=grpc&security=reality&sni=www.aparat.com&fp=chrome&pbk=_K7LTG-QOMMaAYYW6XtVX3BHPNblhdhfCUfYVm3DDjM&sid=473019&spx=%2F#https://t.me/saministammترکیبی",
         "type": "vless",
@@ -121,19 +150,19 @@
       }
     ],
     "last_seen": {
-      "Configir98": 1776743575.5498521,
-      "configbaziran": 1776710118.1189075,
-      "saministamm": 1776710118.514888,
-      "Diamondplaybot": 1776600946.9850798,
-      "Gonet_ir": 1776600947.4485314,
-      "yaravpnit": 1776600947.8640115
+      "Configir98": 1776836301.4320369,
+      "configbaziran": 1776836302.060654,
+      "saministamm": 1776836302.6717215,
+      "Diamondplaybot": 1776836303.3132756,
+      "Gonet_ir": 1776836303.968027,
+      "yaravpnit": 1776836304.6000447
     }
   },
   "status": {
     "active": true
   },
   "stats": {
-    "total_configs": 14,
-    "last_update": 1776827908.4859114
+    "total_configs": 18,
+    "last_update": 1776836310.9810946
   }
 }
