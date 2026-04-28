@@ -17,11 +17,49 @@
       "saministammvless": 1776710118.5149019,
       "Admin": 1776715287.3638625,
       "Configir98https": 1776743575.550081,
-      "yaravpngap": 1776836304.600251
+      "yaravpngap": 1776836304.600251,
+      "Configir98ss": 1777409293.3166916,
+      "saministammss": 1777409294.4080014,
+      "saministammChannel": 1777409294.4084089
     }
   },
   "database": {
     "configs": [
+      {
+        "raw": "vless://954968cf-1827-404e-9862-6c84fe234086@cd2.phoneshop98.ir:2053?encryption=none&type=ws&host=app.phonepanel.ir&path=/ws?ed%3D2560&security=tls&fp=chrome&sni=app.phonepanel.ir&alpn=h3,h2,http/1.1#https://t.me/saministammvless://954968cf-1827-404e-9862-6c84fe234086@xhttp.pcapps.ir:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed%3D3072&security=tls&sni=default.ssl.fastly.net#https://t.me/saministammvless://954968cf-1827-404e-9862-6c84fe234086@xhttp2.pcapps.ir:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed%3D3072&security=tls&sni=default.ssl.fastly.net#https://t.me/saministammvless://954968cf-1827-404e-9862-6c84fe234086@mv2.amydoodles.com:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed%3D3072&security=tls&sni=default.ssl.fastly.net#https://t.me/saministammvless://954968cf-1827-404e-9862-6c84fe234086@down.netrandom.com:4040?encryption=none&type=tcp&headerType=http&host=www.tgju.org&path=/&security=none#https://t.me/saministamm@saministamm.",
+        "type": "vless",
+        "hash": "a71aa67943c9a2b5e0a820ca2a02a722",
+        "channel": "saministamm",
+        "timestamp": 1777409294.4079835
+      },
+      {
+        "raw": "vless://00f24ac9-7b34-411d-85b4-4e9501b39277@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#%40saministamm@saministamm.",
+        "type": "vless",
+        "hash": "cfc721aecb539c1623c607c3fccd54ae",
+        "channel": "saministamm",
+        "timestamp": 1777409294.407981
+      },
+      {
+        "raw": "vless://954968cf-1827-404e-9862-6c84fe234086@cd2.phoneshop98.ir:2053?encryption=none&type=ws&host=app.phonepanel.ir&path=/ws?ed%3D2560&security=tls&fp=chrome&sni=app.phonepanel.ir&alpn=h3,h2,http/1.1#https://t.me/Configir98vless://954968cf-1827-404e-9862-6c84fe234086@xhttp.pcapps.ir:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed%3D3072&security=tls&sni=default.ssl.fastly.net#https://t.me/Configir98vless://954968cf-1827-404e-9862-6c84fe234086@xhttp2.pcapps.ir:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed%3D3072&security=tls&sni=default.ssl.fastly.net#https://t.me/Configir98vless://954968cf-1827-404e-9862-6c84fe234086@mv2.amydoodles.com:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed%3D3072&security=tls&sni=default.ssl.fastly.net#https://t.me/Configir98vless://954968cf-1827-404e-9862-6c84fe234086@down.netrandom.com:4040?encryption=none&type=tcp&headerType=http&host=www.tgju.org&path=/&security=none#https://t.me/Configir98آموزش",
+        "type": "vless",
+        "hash": "e8922dfaaeb05d12349342080b43959d",
+        "channel": "Configir98",
+        "timestamp": 1777409293.3165963
+      },
+      {
+        "raw": "vless://4f8b8ea9-dc11-48ff-af72-d65ab7ab59be@vitallife.gg:443?path=%2Fwp-content%2Fcachecache&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vitallife.gg&fp=chrome&type=ws&allowInsecure=0&sni=vitallife.gg#https://t.me/Configir98آموزش",
+        "type": "vless",
+        "hash": "d8c2d49f379d7577c403a780b84edcab",
+        "channel": "Configir98",
+        "timestamp": 1777409293.3165944
+      },
+      {
+        "raw": "vless://00f24ac9-7b34-411d-85b4-4e9501b39277@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#https://t.me/Configir98آموزش",
+        "type": "vless",
+        "hash": "a858ea52185ea96cd8f7ff004257e7ee",
+        "channel": "Configir98",
+        "timestamp": 1777409293.316592
+      },
       {
         "raw": "vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#https://t.me/saministamm.@saministamm.",
         "type": "vless",
@@ -150,9 +188,9 @@
       }
     ],
     "last_seen": {
-      "Configir98": 1776836301.4320369,
-      "configbaziran": 1776836302.060654,
-      "saministamm": 1776836302.6717215,
+      "Configir98": 1777409293.3165965,
+      "configbaziran": 1777409293.8646367,
+      "saministamm": 1777409294.4079838,
       "Diamondplaybot": 1776836303.3132756,
       "Gonet_ir": 1776836303.968027,
       "yaravpnit": 1776836304.6000447
@@ -162,7 +200,7 @@
     "active": true
   },
   "stats": {
-    "total_configs": 18,
-    "last_update": 1777403338.234052
+    "total_configs": 23,
+    "last_update": 1777409302.2351925
   }
 }
