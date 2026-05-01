@@ -23,11 +23,19 @@
       "saministammChannel": 1777409294.4084089,
       "Configir98socks": 1777554405.6354637,
       "saministammsocks": 1777593525.0176656,
-      "Configir98vmess": 1777627006.3708787
+      "Configir98vmess": 1777627006.3708787,
+      "configbaziran_CBI": 1777644068.9372928
     }
   },
   "database": {
     "configs": [
+      {
+        "raw": "vless://ae0d71fb-5121-4b78-adbc-753dbe2cd1a8@th.gostargate.top:49961?encryption=none&type=tcp&headerType=http#https://t.me/Configir98آموزش",
+        "type": "vless",
+        "hash": "1f1e080706bf283e92e25f29ebf0e787",
+        "channel": "Configir98",
+        "timestamp": 1777644068.489907
+      },
       {
         "raw": "vmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjYyZDI0MTEtYzM0ZC00NjBiLWE5M2UtYjc4OWUwM2NhOGIzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTE4MiIsInBzIjoiaHR0cHM6Ly90Lm1lL0NvbmZpZ2lyOTgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
         "type": "vmess",
@@ -261,8 +269,8 @@
       }
     ],
     "last_seen": {
-      "Configir98": 1777627006.3707612,
-      "configbaziran": 1777593524.6356714,
+      "Configir98": 1777644068.4899101,
+      "configbaziran": 1777644068.9370868,
       "saministamm": 1777593525.0176475,
       "Diamondplaybot": 1776836303.3132756,
       "Gonet_ir": 1776836303.968027,
@@ -273,7 +281,7 @@
     "active": true
   },
   "stats": {
-    "total_configs": 33,
-    "last_update": 1777636920.6978693
+    "total_configs": 34,
+    "last_update": 1777644077.465535
   }
 }
