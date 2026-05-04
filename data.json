@@ -24,11 +24,33 @@
       "Configir98socks": 1777554405.6354637,
       "saministammsocks": 1777593525.0176656,
       "Configir98vmess": 1777627006.3708787,
-      "configbaziran_CBI": 1777644068.9372928
+      "configbaziran_CBI": 1777644068.9372928,
+      "Configir98trojan": 1777929166.0424738
     }
   },
   "database": {
     "configs": [
+      {
+        "raw": "vless://8c4604ef-749c-4b56-adf1-7da405002a21@216.24.57.1:443?path=%2F&security=tls&encryption=none&insecure=0&host=qyi.fqjd663.ggff.net&type=ws&allowInsecure=0&sni=qyi.fqjd663.ggff.net#https://t.me/Configir98آموزش",
+        "type": "vless",
+        "hash": "0bb75d4f688c579245abb2fc89c3fc7d",
+        "channel": "Configir98",
+        "timestamp": 1777929166.0423298
+      },
+      {
+        "raw": "trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#https://t.me/Configir98آموزش",
+        "type": "trojan",
+        "hash": "d22d7c073d756d973bd7e04b94261e82",
+        "channel": "Configir98",
+        "timestamp": 1777929166.0423267
+      },
+      {
+        "raw": "vless://44203abd-18b1-4316-b972-a37e8bbce930@tik.var.hi-phonee.ir:50216?type=ws&encryption=none&path=%2F&host=&security=none#https://t.me/Configir98trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#https://t.me/Configir98آموزش",
+        "type": "vless",
+        "hash": "00d19c370061c82e11ba2b1989412b72",
+        "channel": "Configir98",
+        "timestamp": 1777929166.0423226
+      },
       {
         "raw": "vless://ae0d71fb-5121-4b78-adbc-753dbe2cd1a8@th.gostargate.top:49961?encryption=none&type=tcp&headerType=http#https://t.me/Configir98آموزش",
         "type": "vless",
@@ -269,7 +291,7 @@
       }
     ],
     "last_seen": {
-      "Configir98": 1777644068.4899101,
+      "Configir98": 1777929166.04233,
       "configbaziran": 1777644068.9370868,
       "saministamm": 1777593525.0176475,
       "Diamondplaybot": 1776836303.3132756,
@@ -281,7 +303,7 @@
     "active": true
   },
   "stats": {
-    "total_configs": 34,
-    "last_update": 1777924062.924109
+    "total_configs": 37,
+    "last_update": 1777929180.1503375
   }
 }
