@@ -25,11 +25,19 @@
       "saministammsocks": 1777593525.0176656,
       "Configir98vmess": 1777627006.3708787,
       "configbaziran_CBI": 1777644068.9372928,
-      "Configir98trojan": 1777929166.0424738
+      "Configir98trojan": 1777929166.0424738,
+      "ConfigBazIranTutorial": 1778871946.9988155
     }
   },
   "database": {
     "configs": [
+      {
+        "raw": "vless://a469bf88-8f4c-4b39-81c8-736acb3e1a39@snapp.ir:80?path=%2F&security=none&encryption=none&host=biawban.yeksancloud.ir&type=ws#@https://t.me/Configir98ss://738c7c92-9bb6-4294-8250-b224fb95fc78@2.144.21.44:443?encryption=none&type=ws&security=tls&path=%2Fcity%2Fsetting%3Fed%3D2560&host=roncomi.pages.dev&sni=roncomi.pages.dev&alpn=h2&fp=chrome&allowInsecure=0#https://t.me/Configir98vless://879c96f2-fae7-4555-84f2-b47612c9021d@milad1.cloudzeusggwp.com.tr:36266?encryption=none&type=tcp&security=reality&sni=www.aparat.com&fp=chrome&allowInsecure=1&pbk=1VJvRSqXw-Gcwf7TGQfq-AoT8pa2qN-2IMLVHiZvHiw&sid=d9919852&spx=%2F#https://t.me/Configir98vless://89e2d03b-d371-4317-8c86-f36742c9b55a@i6fr.vexloraz.top:443?type=tcp&encryption=none&security=tls&headerType=none&sni=cdn.vexloraz.top&alpn=h2%2Chttp%2F1.1#https://t.me/Configir98vless://69ab00e0-9230-424b-b1be-eaf9ec776ce8@trex.docos.tech:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=trex.docos.tech&path=/vless-ws&sni=trex.docos.tech&fp=chrome#https://t.me/Configir98vless://3ac2a2a4-fd75-440a-96c5-1c40a50d6128@trex.docos.tech:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=trex.docos.tech&path=/vless-ws&sni=trex.docos.tech&fp=chrome#https://t.me/Configir98﻿✅@Configir98",
+        "type": "vless",
+        "hash": "7cbf2af0a09c0bc13c852ce1eb502fb6",
+        "channel": "Configir98",
+        "timestamp": 1778871946.4174163
+      },
       {
         "raw": "vless://8c4604ef-749c-4b56-adf1-7da405002a21@216.24.57.1:443?path=%2F&security=tls&encryption=none&insecure=0&host=qyi.fqjd663.ggff.net&type=ws&allowInsecure=0&sni=qyi.fqjd663.ggff.net#https://t.me/Configir98آموزش",
         "type": "vless",
@@ -291,8 +299,8 @@
       }
     ],
     "last_seen": {
-      "Configir98": 1777929166.04233,
-      "configbaziran": 1777644068.9370868,
+      "Configir98": 1778871946.4174175,
+      "configbaziran": 1778871946.9986413,
       "saministamm": 1777593525.0176475,
       "Diamondplaybot": 1776836303.3132756,
       "Gonet_ir": 1776836303.968027,
@@ -303,7 +311,7 @@
     "active": true
   },
   "stats": {
-    "total_configs": 37,
-    "last_update": 1778865035.416314
+    "total_configs": 38,
+    "last_update": 1778871960.1755984
   }
 }
