@@ -10,7 +10,10 @@
       "MiTiVPN",
       "vmesskhodam"
     ],
-    "auto_add_pending": {}
+    "auto_add_pending": {
+      "proxy": 1780115696.3433502,
+      "GoNet_ir": 1780115697.9764001
+    }
   },
   "database": {
     "configs": [
@@ -331,11 +334,11 @@
       }
     ],
     "last_seen": {
-      "Configir98": 1780099935.64519,
-      "configbaziran": 1780099936.2683184,
-      "saministamm": 1780099936.854837,
-      "Diamondplaybot": 1780099937.5122812,
-      "Gonet_ir": 1780099938.1923127,
+      "Configir98": 1780115695.8019907,
+      "configbaziran": 1780115696.3433306,
+      "saministamm": 1780115696.8766713,
+      "Diamondplaybot": 1780115697.415873,
+      "Gonet_ir": 1780115697.9761684,
       "yaravpnit": 1780099938.776735,
       "MiTiVPN": 1780099939.4766273
     }
@@ -345,6 +348,6 @@
   },
   "stats": {
     "total_configs": 45,
-    "last_update": 1780099952.1830916
+    "last_update": 1780115699.6884253
   }
 }
