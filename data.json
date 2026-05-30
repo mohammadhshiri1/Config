@@ -7,31 +7,48 @@
       "Diamondplaybot",
       "Gonet_ir",
       "yaravpnit",
-      "MiTiVPN"
+      "MiTiVPN",
+      "vmesskhodam"
     ],
-    "auto_add_pending": {
-      "GoNet_ir": 1776600947.4487445,
-      "socks": 1776600947.864034,
-      "proxy": 1776626666.2421737,
-      "Configir98vless": 1776643391.1448312,
-      "saministammvless": 1776710118.5149019,
-      "Admin": 1776715287.3638625,
-      "Configir98https": 1776743575.550081,
-      "yaravpngap": 1776836304.600251,
-      "Configir98ss": 1777409293.3166916,
-      "saministammss": 1777409294.4080014,
-      "saministammChannel": 1777409294.4084089,
-      "Configir98socks": 1777554405.6354637,
-      "saministammsocks": 1777593525.0176656,
-      "Configir98vmess": 1777627006.3708787,
-      "configbaziran_CBI": 1777644068.9372928,
-      "Configir98trojan": 1777929166.0424738,
-      "ConfigBazIranTutorial": 1778871946.9988155,
-      "vmesskhodam": 1780086719.8498714
-    }
+    "auto_add_pending": {}
   },
   "database": {
     "configs": [
+      {
+        "raw": "vmess://eyJhZGQiOiJ1ay5jb25uZnVsbC5vcmciLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJkNjRkNTJiMS0xNDRmLTRiY2UtYTZkNy0xMzI0ZGUxODdiMWIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwNTMiLCJwcyI6IkBzYW1pbmlzdGFtbSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ1ay5jb25uZnVsbC5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
+        "type": "vmess",
+        "hash": "de6d80db5c0b5862150872894b8d26c9",
+        "channel": "saministamm",
+        "timestamp": 1780099936.8548367
+      },
+      {
+        "raw": "trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&allowinsecure=0&type=ws&sni=www.calmlunch.com#@saministamm",
+        "type": "trojan",
+        "hash": "b666672457268307b819aa278eeea63c",
+        "channel": "saministamm",
+        "timestamp": 1780099936.8548322
+      },
+      {
+        "raw": "vless://6546d528-03a6-432b-a915-512fcd7c663b@useredge1.noroozmobarak.com:80?security=none&allowInsecure=0&encryption=none&type=ws&host=gostar26.badabanshop123.com&path=/webpanel#🌟configbaziran@configbaziran⭐️",
+        "type": "vless",
+        "hash": "7136a9637032692f40276f4e3681164d",
+        "channel": "configbaziran",
+        "timestamp": 1780099936.2683175
+      },
+      {
+        "raw": "vless://de8b874f-0b15-440c-b257-ce68852ffad0@forssa.libenet.ir:2003?security=reality&encryption=none&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=2418ed47b875e923#T.me/CONFiGiR98_1vless://3dbf131b-dbf6-4660-b97b-003199b17686@cd4.baguvix.xyz:2053?security=tls&type=ws&headerType=&path=%2Fws%3Fed%3D2560&host=c7.app9.ir&sni=c7.app9.ir&fp=#T.me/CONFiGiR98_2⭕️اگه",
+        "type": "vless",
+        "hash": "803f52ebf8a346c324a814b84d3ccb95",
+        "channel": "Configir98",
+        "timestamp": 1780099935.6451895
+      },
+      {
+        "raw": "vless://e221880c-0ada-4e89-a336-62c3b909f787@104.18.32.47:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=grpc&serviceName=iranprimer.usip.org.entekhab.ir.presstv.ir.alef.ir.yjc.ir.presstv.ir.en.mehrnews.com&allowInsecure=1&sni=Old-CaREg74s0ugV9a.CaRboNblAcKBMw.ir#T.me/CONFiGiR98🔹اگه",
+        "type": "vless",
+        "hash": "b0e3d9de973dae92030b5b8384e40817",
+        "channel": "Configir98",
+        "timestamp": 1780099935.6451848
+      },
       {
         "raw": "vless://e221880c-0ada-4e89-a336-62c3b909f787@104.18.32.47:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=grpc&serviceName=iranprimer.usip.org.entekhab.ir.presstv.ir.alef.ir.yjc.ir.presstv.ir.en.mehrnews.com&allowInsecure=1&sni=Old-CaREg74s0ugV9a.CaRboNblAcKBMw.ir#%40saministamm%20VIP%20NEW%F0%9F%94%A5@saministamm",
         "type": "vless",
@@ -314,19 +331,20 @@
       }
     ],
     "last_seen": {
-      "Configir98": 1780086718.9271863,
-      "configbaziran": 1780086719.3950717,
-      "saministamm": 1780086719.8498511,
-      "Diamondplaybot": 1776836303.3132756,
-      "Gonet_ir": 1776836303.968027,
-      "yaravpnit": 1776836304.6000447
+      "Configir98": 1780099935.64519,
+      "configbaziran": 1780099936.2683184,
+      "saministamm": 1780099936.854837,
+      "Diamondplaybot": 1780099937.5122812,
+      "Gonet_ir": 1780099938.1923127,
+      "yaravpnit": 1780099938.776735,
+      "MiTiVPN": 1780099939.4766273
     }
   },
   "status": {
     "active": true
   },
   "stats": {
-    "total_configs": 40,
-    "last_update": 1780094352.8047736
+    "total_configs": 45,
+    "last_update": 1780099952.1830916
   }
 }
