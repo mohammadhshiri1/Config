@@ -12,11 +12,75 @@
     ],
     "auto_add_pending": {
       "proxy": 1780115696.3433502,
-      "GoNet_ir": 1780115697.9764001
+      "GoNet_ir": 1780115697.9764001,
+      "socks": 1780594203.4699173
     }
   },
   "database": {
     "configs": [
+      {
+        "raw": "vless://5e5608a2-9893-4eaa-b90a-e202bacef5b6@208.103.161.33:443?mode=auto&path=%2Fkir&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=cdn.safev2ray.store&fp=chrome&type=xhttp&allowInsecure=1&sni=cdn.safev2ray.store#@vmesskhodamvless://c1af9285-43c0-4aa1-8a6d-083373472777@irforce.lionshop.uk:52700?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.58RsoIwmLjlOVL_NYSV-RZtXdxnJW114iyD0G3RbZgc&host=play.google.com&type=ws#@vmesskhodamvless://5e5608a2-9893-4eaa-b90a-e202bacef5b6@5.10.214.53:443?mode=auto&path=%2Fkir&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=cdn.safev2ray.store&fp=chrome&type=xhttp&allowInsecure=1&sni=cdn.safev2ray.store#@vmesskhodam@vmesskhodam",
+        "type": "vless",
+        "hash": "ea3d54bc959920aa0ad98aea7eb91742",
+        "channel": "vmesskhodam",
+        "timestamp": 1780594203.4698942
+      },
+      {
+        "raw": "vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=%2FTignal&security=none&encryption=none&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#test@vmesskhodam",
+        "type": "vless",
+        "hash": "d4b1877ecf58319aee4bfa902177f680",
+        "channel": "vmesskhodam",
+        "timestamp": 1780594203.4698896
+      },
+      {
+        "raw": "trojan://humanity@185.18.250.252:443?type=ws&security=tls&path=%2Fassignment&sni=www.multiplydose.com&allowInsecure=0#vmesskhodamvless://da48859d-edf9-4a8c-a026-80910591f284@nytimes.com:80?encryption=none&type=xhttp&path=%2FTignal&host=tignaltofansv8.global.ssl.fastly.net&mode=auto#vmesskhodamss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0@49.13.3.249:23997?type=tcp&headerType=none#vmesskhodam@vmesskhodamمتصل",
+        "type": "trojan",
+        "hash": "c203082df1dee7600bdee8677901ef82",
+        "channel": "vmesskhodam",
+        "timestamp": 1780594203.4698853
+      },
+      {
+        "raw": "vless://da48859d-edf9-4a8c-a026-80910591f284@nytimes.com:80?encryption=none&type=xhttp&path=%2FTignal&host=tignaltofansv8.global.ssl.fastly.net&mode=auto#vmesskhodamss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0@49.13.3.249:23997?type=tcp&headerType=none#vmesskhodam@vmesskhodamمتصل",
+        "type": "vless",
+        "hash": "6cb4c588dad099882258a887bb104a25",
+        "channel": "vmesskhodam",
+        "timestamp": 1780594203.4698815
+      },
+      {
+        "raw": "vless://47422044-85e3-426b-b6c4-3588cb24a3e5@45.130.125.160:443?encryption=none&type=ws&security=tls&path=%2Fae-bo&host=s.blibli.com.cyylr.eu.cc&sni=s.blibli.com.cyylr.eu.cc&alpn=http%2F1.1&fp=chrome&allowInsecure=0#vmesskhodamvless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?encryption=none&type=ws&security=tls&path=%2Fsg-melbi&host=cyylr.eu.cc&sni=cyylr.eu.cc&allowInsecure=0#vmesskhodam@vmesskhodm🤍",
+        "type": "vless",
+        "hash": "4de7d8d1d51ba156133af82c4b401bf1",
+        "channel": "vmesskhodam",
+        "timestamp": 1780594203.469876
+      },
+      {
+        "raw": "vless://725dbc91-a8b7-4816-a386-83e2bfbec189@it.n1etwork.prostosetup.org:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=github.com&sid=bcb6b9117a1206c3&fp=firefox&pbk=Nb99ZU29q7aI02rE_bSjlXAHj_U51NoLL0JEx6ohqjM&headerType=none#@configbaziran@configbaziran⭐️",
+        "type": "vless",
+        "hash": "4bc5bb3ce214f86de42692cfa8c431fc",
+        "channel": "configbaziran",
+        "timestamp": 1780594199.9023807
+      },
+      {
+        "raw": "vless://725dbc91-a8b7-4816-a386-83e2bfbec189@ge-n.prostosetup.org:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=tradingview.com&sid=5900&fp=firefox&pbk=NSQt1gJx5Ncgio6mzEarggHCBJFZghY5_du03B2bOTU&headerType=none#@configbaziran@configbaziran⭐️",
+        "type": "vless",
+        "hash": "65093195ca087255e2e8ecee85509a53",
+        "channel": "configbaziran",
+        "timestamp": 1780594199.9023771
+      },
+      {
+        "raw": "trojan://mitivpn@cdn.linkman1.ir:443?security=tls&sni=cdn.linkman1.ir&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings#@configbaziran@configbaziran⭐️",
+        "type": "trojan",
+        "hash": "6528bcf655dd3b3e86f1834193ef4340",
+        "channel": "configbaziran",
+        "timestamp": 1780594199.9023736
+      },
+      {
+        "raw": "trojan://mitivpn@www.linkman1.ir:443?security=tls&sni=www.linkman1.ir&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings#@configbaziran@configbaziran⭐️",
+        "type": "trojan",
+        "hash": "2b75cc26fa30aa4214b30ec02d02f98f",
+        "channel": "configbaziran",
+        "timestamp": 1780594199.9023688
+      },
       {
         "raw": "vmess://eyJhZGQiOiJ1ay5jb25uZnVsbC5vcmciLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJkNjRkNTJiMS0xNDRmLTRiY2UtYTZkNy0xMzI0ZGUxODdiMWIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwNTMiLCJwcyI6IkBzYW1pbmlzdGFtbSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ1ay5jb25uZnVsbC5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
         "type": "vmess",
@@ -334,20 +398,21 @@
       }
     ],
     "last_seen": {
-      "Configir98": 1780115695.8019907,
-      "configbaziran": 1780115696.3433306,
-      "saministamm": 1780115696.8766713,
-      "Diamondplaybot": 1780115697.415873,
-      "Gonet_ir": 1780115697.9761684,
-      "yaravpnit": 1780099938.776735,
-      "MiTiVPN": 1780099939.4766273
+      "Configir98": 1780594199.2458022,
+      "configbaziran": 1780594199.902381,
+      "saministamm": 1780594200.490023,
+      "Diamondplaybot": 1780594201.0478883,
+      "Gonet_ir": 1780594201.662181,
+      "yaravpnit": 1780594202.27156,
+      "MiTiVPN": 1780594202.9092789,
+      "vmesskhodam": 1780594203.4698944
     }
   },
   "status": {
     "active": true
   },
   "stats": {
-    "total_configs": 45,
-    "last_update": 1780582008.7256446
+    "total_configs": 54,
+    "last_update": 1780594205.1672306
   }
 }
